@@ -4,4 +4,9 @@ title: Suriya Chotawan
 permalink: /resune/
 ---
 
-### WelCome
+### Experience
+-
+
+### Education
+-Bs.C. Computer Science, Ubon Ratchathani Ratchabhat Univerity.
+
