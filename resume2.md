@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Suriya Chotawan
-permalink: /resume/
+permalink: /resume2/
 ---
 
 ### Experience
