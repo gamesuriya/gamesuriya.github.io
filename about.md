@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Email
 
-[suriya.cs57@ubru.ac.th]
+[suriya.cs57@ubru.ac.th](suriya.cs57@ubru.ac.th)
